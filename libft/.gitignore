@@ -1,0 +1,34 @@
+# TEMPORARY for libft subject
+libft.a
+libft.so
+
+# test files
+~*
+_*
+m.c
+libftest/
+
+########################################
+# Mac OS finder
+.DS_Store
+
+# vscode configurations
+.vscode
+
+# vim swap file
+.*.swp
+.*.swo
+
+# gcc/g++ output files
+*.out
+*.o
+*.exe
+
+# java output files
+*.class
+/build/
+
+########################################
+.git
+# .gitignore
+.history
