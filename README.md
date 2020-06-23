@@ -13,7 +13,6 @@
 | 42 Intra nickname | GitHub link                       |
 | :---------------: | :-------------------------------- |
 |      mihykim      | <https://github.com/365kim/>      |
-|      seunkim      | <https://github.com/stevenkim18/> |
 
 ----
 
