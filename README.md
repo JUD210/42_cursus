@@ -1,6 +1,6 @@
 # 42_cursus (2020.06.23)
 
-![42_cursus](Asset/Image/42_cursus.png)
+![42_cursus]((Asset)/Images/42_cursus.png)
 
 | Category (Prefix) | Level |                             Project                             | Language |                       Topics                       |  Score  | Completion Date |
 | :---------------: | :---: | :-------------------------------------------------------------: | :------: | :------------------------------------------------: | :-----: | :-------------: |
@@ -19,11 +19,11 @@
 
 ## Contacts
 
-![my_photo](my_photo.png)
+![my_photo]((Asset)/Images/my_photo.png)
 
-|                                                    |            |                                                            |
-| :------------------------------------------------: | :--------: | :--------------------------------------------------------- |
-|  <img src="Asset/Image/fav_mail.ico" width="30">   |   `Mail`   | <judicious210@gmail.com>                                   |
-|   <img src="Asset/Image/fav_42.png" width="30">    | `42 Intra` | <https://profile.intra.42.fr/users/hmin>                   |
-| <img src="Asset/Image/fav_youtube.png" width="30"> | `YouTube`  | <https://www.youtube.com/channel/UCYPWzViA-uq9sBop7ssYaEg> |
-| <img src="Asset/Image/fav_jekyll.png" width="30">  |   `Blog`   | <https://hyuk.kr/>                                         |
+|                                        |            |                                                            |
+| :------------------------------------: | :--------: | :--------------------------------------------------------- |
+|  <img src="(Asset)/Images/fav_mail.ico" width="30">   |   `Mail`   | <judicious210@gmail.com>                                   |
+|   <img src="(Asset)/Images/fav_42.png" width="30">    | `42 Intra` | <https://profile.intra.42.fr/users/hmin>                   |
+| <img src="(Asset)/Images/fav_youtube.png" width="30"> | `YouTube`  | <https://www.youtube.com/channel/UCYPWzViA-uq9sBop7ssYaEg> |
+| <img src="(Asset)/Images/fav_jekyll.png" width="30">  |   `Blog`   | <https://hyuk.kr/>                                         |
