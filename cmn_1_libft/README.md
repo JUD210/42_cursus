@@ -13,9 +13,10 @@
 |   1   | 2020.04.16  | 85/100  |   ❌    |
 |   2   | 2020.04.18  | 115/100 |   ✅    |
 
-## 💡 Tips
+<!-- ## 💡 Tips -->
 
-- [How to check memory leaks](~/study_notes/how_to_check_memory_leaks.md)
+<!-- @@T 블로그 글로 이동 -->
+<!-- - [C언어에서 메모리 누수 확인하는 방법 정리](https://github.com/JUD210/42_cursus/blob/master/study_notes/how_to_check_memory_leaks_in_c.md) -->
 
 ## ⚙️ Testing Tools
 
