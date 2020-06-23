@@ -5,7 +5,7 @@
 | Category (Prefix) | Level |                             Project                             | Language | Topics                                                      |  Score  | Completion Date |
 | :---------------: | :---: | :-------------------------------------------------------------: | :------: | :---------------------------------------------------------- | :-----: | :-------------: |
 |   Common (cmn)    |   1   |         [**libft**](https://github.com/JUD210/42_libft)         |    C     | `library`, `Makefile`, `string manipulation`, `linked list` | 115/100 |   2020.04.18    |
-|   Common (cmn)    |   2   | [**get_next_line**](https://github.com/JUD210/42_get_next_line) |    C     | `file descriptor`, `static variable`                        | 115/100 |   2020.06.23    |
+|   Common (cmn)    |   2   | [**get_next_line**](https://github.com/JUD210/42_get_next_line) |    C     | `file descriptor`, `static variable`                        | 115/100 |   2020.06.22    |
 |   Common (cmn)    |   2   |                            ft_printf                            |    C     | `variadic arguments`, `UTF-8`, `bitwise operation`          |         |                 |
 
 > 📎 Special Thanks to
