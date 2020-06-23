@@ -22,7 +22,7 @@
 
 > **I highly recommend copying these tools from my workspace** because if you clone these from each GitHub link, you should set up tiresome things to fix some errors.
 
-1. Unzip get_next_line.zip
+1. Unzip
 2. Copy & Paste testing tools
 
 But if you want to clone and set up by yourself, here are links.
