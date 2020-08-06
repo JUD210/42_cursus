@@ -1,4 +1,4 @@
-# 📌 42_cursus (2020.06.23)
+# 📌 42_cursus (2020.08.23)
 
 ![42_cursus]((Asset)/Images/42_cursus.png)
 
