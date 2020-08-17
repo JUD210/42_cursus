@@ -1,18 +1,20 @@
-# 📌 42_cursus (2020.06.23)
+# 📌 42_cursus (2020.08.17)
 
 ![42_cursus]((Asset)/Images/42_cursus.png)
 
-| Category (Prefix) | Level |                             Project                             | Language | Topics                                                      |  Score  | Completion Date |
-| :---------------: | :---: | :-------------------------------------------------------------: | :------: | :---------------------------------------------------------- | :-----: | :-------------: |
-|   Common (cmn)    |   1   |         [**libft**](./cmn_1_libft)         |    C     | `library`, `Makefile`, `string manipulation`, `linked list` | 115/100 |   2020.04.18    |
-|   Common (cmn)    |   2   | [**get_next_line**](./cmn_2_get_next_line) |    C     | `file descriptor`, `static variable`                        | 115/100 |   2020.06.22    |
-|   Common (cmn)    |   2   |                            ft_printf                            |    C     | `variadic arguments`, `UTF-8`, `bitwise operation`          |         |                 |
+| Category (Prefix) | Level |                  Project                   | Language | Topics                                                                         |  Score  | Completion Date |
+| :---------------: | :---: | :----------------------------------------: | :------: | :----------------------------------------------------------------------------- | :-----: | :-------------: |
+|   Common (cmn)    |   1   |         [**libft**](./cmn_1_libft)         |    C     | `library`, `Makefile`, `string manipulation`, `linked list`                    | 115/100 |   2020.04.18    |
+|   Common (cmn)    |   2   | [**get_next_line**](./cmn_2_get_next_line) |    C     | `file descriptor`, `static variable`                                           | 115/100 |   2020.06.22    |
+|   Common (cmn)    |   2   |                 ft_printf                  |    C     | `variadic arguments`, `UTF-8`, `bitwise operation`                             | 100/100 |   2020.07.03    |
+|   Common (cmn)    |   2   |                  netwhat                   |    C     | `network`, `OSI protocols`, `TCP/IP`                                           | 100/100 |   2020.07.25    |
+|   Common (cmn)    |   3   |                 ft_server                  |    C     | `Docker`, `web server`, `Nginx`, `MySQL`, `MariaDB`, `phpMyAdmin`, `wordpress` | 100/100 |   2020.07.25    |
 
 > 📎 Special Thanks to
 
-| 42 Intra nickname | GitHub link                       |
-| :---------------: | :-------------------------------- |
-|      mihykim      | <https://github.com/365kim/>      |
+| 42 Intra nickname | GitHub link                  |
+| :---------------: | :--------------------------- |
+|      mihykim      | <https://github.com/365kim/> |
 
 ----
 
